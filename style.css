@@ -236,7 +236,7 @@ html {
 
 @media(max-width:412px){
     .player {
-        width: 36rem;
-        height: 65rem;
+        width: 35rem;
+        height: 63rem;
     }
 }
