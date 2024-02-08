@@ -6,7 +6,25 @@ const songData = [
       src: "song4"
   },
   {
-      name: "Pehle bhi mai",
+      name: "Bekhayali",
+      artist: "Sachet tandon",
+      img:"images/Bekhayali-Kabir-Singh.jpg",
+      src: "song24"
+  },
+  {
+      name: "Zihaal e miskin",
+      artist: "Javid mohsin",
+      img:"images/zihaal-e-miskin.jpg",
+      src: "song25"
+  },
+  {
+      name: "Lungi dance",
+      artist: "Yo yo Honey singer",
+      img:"images/chennai-express.jpg",
+      src: "song27"
+  },
+  {
+    name: "Pehle bhi mai",
       artist: "Vishal mishra",
       img:"images/animal.jpg",
       src: "song2"
@@ -41,10 +59,10 @@ const songData = [
       img:"images/tera-zikr.jpg",
       src: "song1"
     },
-  {
-    name:"Railin oligal",
-    artist:"Pradeep kumar",
-    img:"images/Railin-OligalBlueStar.jpg",
+    {
+      name:"Railin oligal",
+      artist:"Pradeep kumar",
+      img:"images/Railin-OligalBlueStar.jpg",
     src:"song5"
   },
   {
@@ -56,7 +74,7 @@ const songData = [
   {
     name:"Billa Thme",
     artist:"Yuvan shankar raja",
-    img:"images/Billa-Theme.jpg",
+    img:"images/Billa.webp",
     src:"song13"
   },
   {
@@ -71,23 +89,23 @@ const songData = [
     img:"images/3(moonu).webp",
     src:"song18"
   },
-
+  
   {
     name:"KGF Theme",
     artist:"Ravi basur",
-    img:"images/Kgf-chapter-1-2018.webp",
+    img:"images/Kgf2.webp",
     src:"song15"
   },
   {
     name:"KGF Dheera Dheera",
     artist:"Ravi basur",
-    img:"images/Kgf-chapter-1-2018.webp",
+    img:"images/Kgf1.webp",
     src:"song11"
   },
   {
     name:"KGF Thanani Thane",
     artist:"Ravi basur",
-    img:"images/Kgf-Thanthane-Thane.jpg",
+    img:"images/Kgf-chapter-1-2018.webp",
     src:"song19"
   },
   {
@@ -107,6 +125,12 @@ const songData = [
     artist:"G.V Prakash",
     img:"images/chithha-tamil-2023.webp",
     src:"song22"
+  },
+  {
+      name: "Beep song",
+      artist: "Simbu & anirudh",
+      img:"images/beep.webp",
+      src: "song26"
   },
   {
     name:"Ore Kanaa",
